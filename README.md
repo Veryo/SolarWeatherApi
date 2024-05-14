@@ -12,7 +12,7 @@ Weather Data API is a simple API created using Spring Boot (Java 17) that allows
 ## Project Structure
 
 All backend source files are located in the directory :
-`C:\Users\wcuba\OneDrive\Pulpit\solarweather\src\main\java\jakub\wojcik\solarweather\weatherResponse`
+`solarweather\src\main\java\jakub\wojcik\solarweather\weatherResponse`
 
 **Components:**
 - `WeatherApiClient` - responsible for fetching weather data from the Open Meteo service.
