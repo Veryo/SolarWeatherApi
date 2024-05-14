@@ -2,7 +2,7 @@
 
 ## Description
 
-Weather Data API is a simple API created using Spring Boot (Java 17) that allows for fetching current weather data. The API provides information such as temperature, humidity, atmospheric pressure, and other weather parameters.
+Weather Data API is a simple API created using Spring Boot (Java 17) that allows for fetching current weather data.
 
 ## Requirements
 
@@ -11,7 +11,8 @@ Weather Data API is a simple API created using Spring Boot (Java 17) that allows
 
 ## Project Structure
 
-All backend source files are located in the directory:
+All backend source files are located in the directory :
+`C:\Users\wcuba\OneDrive\Pulpit\solarweather\src\main\java\jakub\wojcik\solarweather\weatherResponse`
 
 **Components:**
 - `WeatherApiClient` - responsible for fetching weather data from the Open Meteo service.
